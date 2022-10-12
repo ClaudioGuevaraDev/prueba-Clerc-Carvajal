@@ -25,4 +25,4 @@ En la carpeta pregunta2 se encuentra un archivo main.py, el cual requiere de mys
 
 ### Pregunta 3
 
-Tengo muy conocimientos en php, por eso prefiero no responder esta pregunta. Mis conocimientos para desarrollo web es con javascript, con el uso de node.js y react.
+Tengo muy pocos conocimientos en php, por eso prefiero no responder esta pregunta. Mis conocimientos para desarrollo web es con javascript, con el uso de node.js y react.
