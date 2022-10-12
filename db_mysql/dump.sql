@@ -5,7 +5,7 @@ USE prueba;
 CREATE TABLE IF NOT EXISTS Cargos (
     id INT NOT NULL AUTO_INCREMENT,
     nombre VARCHAR(255) NOT NULL,
-    grado INT NOT NULL,
+    grado VARCHAR(255) NOT NULL,
     genero VARCHAR(255) NOT NULL,
     nacionalidad VARCHAR(255) NOT NULL,
     PRIMARY KEY (id)
